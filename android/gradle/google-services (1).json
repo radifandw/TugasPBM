@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120099007023",
+    "project_id": "fluttercrudapp-f8ffd",
+    "storage_bucket": "fluttercrudapp-f8ffd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120099007023:android:453e61f07453c0d92e34da",
+        "android_client_info": {
+          "package_name": "com.tugas.pbm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYV1mVde16qmtsjkZSOZcyTAKw_07ozC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
